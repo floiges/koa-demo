@@ -9,6 +9,7 @@
   "author": "yadong",
   "license": "ISC",
   "dependencies": {
+    "busboy": "^0.3.0",
     "ejs": "^2.6.1",
     "koa": "2.7.0",
     "koa-bodyparser": "^4.2.1",
